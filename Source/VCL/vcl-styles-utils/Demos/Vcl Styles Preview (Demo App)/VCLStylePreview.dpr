@@ -1,4 +1,4 @@
-program VCLStylePreview;
+﻿program VCLStylePreview;
 
 uses
   SysUtils,

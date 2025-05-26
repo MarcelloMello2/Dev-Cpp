@@ -1,4 +1,4 @@
-{-----------------------------------------------------------------------------
+﻿{-----------------------------------------------------------------------------
  Unit Name: SVGInterfaces
  Author:    PyScripter
  Purpose:   Inteface-based access to Svg parsing and drawing

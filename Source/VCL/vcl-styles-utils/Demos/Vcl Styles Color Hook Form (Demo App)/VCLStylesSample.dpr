@@ -1,4 +1,4 @@
-program VCLStylesSample;
+﻿program VCLStylesSample;
 
 uses
   Windows,

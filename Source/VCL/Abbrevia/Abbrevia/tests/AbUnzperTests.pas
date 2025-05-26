@@ -1,4 +1,4 @@
-(* ***** BEGIN LICENSE BLOCK *****
+ï»¿(* ***** BEGIN LICENSE BLOCK *****
  * Version: MPL 1.1
  *
  * The contents of this file are subject to the Mozilla Public License Version
@@ -256,13 +256,13 @@ var
  ltestzip,
  ltestfile : string;
 begin
-// This test verifies use Ability to use Charactes such as ãëíõú
+// This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
 // In the Archive Directory Name
 
   // Create New Directory
   //236 changes into a ? on my machine in the delphi editor
   // so I thought it would be a good character to test with
-  ltestdir := TestTempDir  + chr(236) + 'ãëíõú' + PathDelim;
+  ltestdir := TestTempDir  + chr(236) + 'Ã£Ã«Ã­ÃµÃº' + PathDelim;
   ForceDirectories(ltestDir);
 
   // copy fresh MPL.ZIP to locale1.zip in the new directory
@@ -290,13 +290,13 @@ var
  ltestdir,
  ltestfile : string;
 begin
-// This test verifies use Ability to use Charactes such as ãëíõú
+// This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
 // In the Base Directory Name
 
   // Create New Directory
   //236 changes into a ? on my machine in the delphi editor
   // so I thought it would be a good character to test with
-  ltestdir := TestTempDir  + chr(236) + 'ãëíõú' + PathDelim;
+  ltestdir := TestTempDir  + chr(236) + 'Ã£Ã«Ã­ÃµÃº' + PathDelim;
   ForceDirectories(ltestDir);
 
   ltestFile := MPLDir + 'MPL.zip';
@@ -317,11 +317,11 @@ var
  ltestzip,
  ltestfile : string;
 begin
-// This test verifies use Ability to use Charactes such as ãëíõú
+// This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
 // In the Archive File Name
 
-  // copy fresh MPL.ZIP to localeãëíõú3.zip in the temp directory
-  ltestFile := TestTempDir + 'localeãëíõú3.zip';
+  // copy fresh MPL.ZIP to localeÃ£Ã«Ã­ÃµÃº3.zip in the temp directory
+  ltestFile := TestTempDir + 'localeÃ£Ã«Ã­ÃµÃº3.zip';
   if FileExists(lTestFile) then
      DeleteFile(lTestFile);
   ltestzip := MPLDir + 'MPL.zip';
@@ -342,26 +342,26 @@ end;
 
 procedure TAbUnZipperTests.TestLocale4;
 begin
-// This test verifies use Ability to use Charactes such as ãëíõú
+// This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
 // In the Files contained in the Archive.
 
   Component.FileName := TestFileDir + 'LocaleTests.zip';
   Component.BaseDirectory := TestTempDir;
 
   // Delete Files in Temp Directory if they exist
-  if FileExists(TestTempDir + 'testãëíõú1.lc4') then
-     DeleteFile(TestTempDir + 'testãëíõú1.lc4');
-  if FileExists(TestTempDir + 'testãëíõú2.lc4') then
-     DeleteFile(TestTempDir + 'testãëíõú2.lc4');
-  if FileExists(TestTempDir + 'testãëíõú3.lc4') then
-     DeleteFile(TestTempDir + 'testãëíõú3.lc4');
+  if FileExists(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº1.lc4') then
+     DeleteFile(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº1.lc4');
+  if FileExists(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº2.lc4') then
+     DeleteFile(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº2.lc4');
+  if FileExists(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº3.lc4') then
+     DeleteFile(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº3.lc4');
 
   Component.ExtractFiles('*.lc4');
   Component.CloseArchive;
 
-  CheckFileExists(TestTempDir + 'testãëíõú1.lc4');
-  CheckFileExists(TestTempDir + 'testãëíõú2.lc4');
-  CheckFileExists(TestTempDir + 'testãëíõú3.lc4');
+  CheckFileExists(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº1.lc4');
+  CheckFileExists(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº2.lc4');
+  CheckFileExists(TestTempDir + 'testÃ£Ã«Ã­ÃµÃº3.lc4');
 
 end;
 {$ENDIF}

@@ -1,4 +1,4 @@
-var
+﻿var
  s : string;
 begin
   for s in TDirectory.GetFiles('C:\Users\Public\Documents\RAD Studio\Projects\XE2\vcl-styles-utils\Vcl Styles Gen\Output','*.png') do

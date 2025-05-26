@@ -1,4 +1,4 @@
-- Add required headers and libraries for D3D11 development
+﻿- Add required headers and libraries for D3D11 development
 - Increase the amount of automated and manual tests
 - When the current compiler changes, code should be reparsed because built-in defines of a compiler affect parsing
 - Fix messy painting of find results list

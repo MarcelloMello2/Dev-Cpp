@@ -1,4 +1,4 @@
-The COM DLLs for v5.0 are compiled using Delphi XE2 (including extended RTTI) and include zipx support.  Recompiling with Delphi 2009 and without zipx support should roughly halve the size of the 32-bit DLL.
+﻿The COM DLLs for v5.0 are compiled using Delphi XE2 (including extended RTTI) and include zipx support.  Recompiling with Delphi 2009 and without zipx support should roughly halve the size of the 32-bit DLL.
 
 They can be registered for all users (requires admin rights) using:
 

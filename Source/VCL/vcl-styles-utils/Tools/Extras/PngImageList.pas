@@ -1,4 +1,4 @@
-unit PngImageList;
+﻿unit PngImageList;
 
 {$IF RTLVersion < 15.0 }
 This unit only compiles with Delphi 7 and higher!

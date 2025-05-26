@@ -1,4 +1,4 @@
-{-----------------------------------------------------------------------------
+﻿{-----------------------------------------------------------------------------
  Unit Name: Winapi.D2DMissing
  Author:    Based on https://github.com/FactoryXCode/MfPack
             with many fixes by PyScripter

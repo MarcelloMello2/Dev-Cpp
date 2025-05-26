@@ -1,11 +1,11 @@
-Contributors to the SynEdit project:
+ï»¿Contributors to the SynEdit project:
 
     Ackbar, Andre Mens, Andy Colson, Anthony Steele, Arentjan Banck, Aaron Chan,
     Bruno Mikkelsen, Colin Laplace, Daniel Parnell, David H. Muir, Dean Harmon,
-    Eden Kirin, Eric Grange, Erik B. Berry, Falko Jens Wagner, Flávio Etrusco, 
+    Eden Kirin, Eric Grange, Erik B. Berry, Falko Jens Wagner, FlÃ¡vio Etrusco, 
     James D. Richardson, Jan Fiala, Jeff Rafter, Johan Visser, Jordan Russell, 
     Jorg Jans, Jonathan Halterman, Kirys, Lasse Vagsather Karlsen, Leon Brown, 
-    Lorant Toth, Maël Hörz, Marko Njezic, Martin Pley, Massimo Maria Ghisalberti, 
+    Lorant Toth, MaÃ«l HÃ¶rz, Marko Njezic, Martin Pley, Massimo Maria Ghisalberti, 
     Mattias Gaertner, Michael Beck, Michael Hieke, Mike Gibbard,
     Morten J. Skovrup, Murad Kakabayev, Pieter Polak, Primoz Gabrijelcic,
     Roman Silin, Ruggero Bandera, Satya, Stefan van As, Steve Sutherland,
@@ -31,10 +31,10 @@ of appearance):
     Kieran McNamara,  Martijn van der Kooij,  Jan Jacobs,  ArentJan Banck,
     Alexander Reiter,  xueyu,  Sebastian J. Gross,  Stefan van As,
     Vladimir Kuznetsov,  David Muir,  Nick Hoddinott,  Hanai Tohru,
-    Winfried Schöttler,  Hiep Ma,  Daniel Rodríguez Herrera,  Nur Ismail,
+    Winfried SchÃ¶ttler,  Hiep Ma,  Daniel RodrÃ­guez Herrera,  Nur Ismail,
     Peter Adam,  Wynand Breytenbach,  Milan Nikolic,  Robert Persson,
     John T. Truchon,  Igor P. Zenkov,  Odilon Nelson,  Martijn Tonies,
-    Eden Kirin,  Max Horváth,  riceball,  Ewart Nijburg,  Nils Springob,
+    Eden Kirin,  Max HorvÃ¡th,  riceball,  Ewart Nijburg,  Nils Springob,
     Jeff D. Smith,  Pavel Krehula,  Peter Wolters
 
 $Id: Contributors.txt,v 1.20.2.2 2004/12/10 15:31:01 maelh Exp $

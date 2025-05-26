@@ -1,4 +1,4 @@
-program VisualStylesEQU;
+﻿program VisualStylesEQU;
 
 uses
   Vcl.Forms,

@@ -1,4 +1,4 @@
-unit AbBytes;
+﻿unit AbBytes;
 
 interface
 

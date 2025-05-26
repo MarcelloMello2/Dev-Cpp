@@ -1,4 +1,4 @@
-{******************************************************************************}
+﻿{******************************************************************************}
 {                                                                              }
 {       SVGTextPropertyEditorUnit: A property editor for SVGText               }
 {       to simplify use of setting SVGText value                               }

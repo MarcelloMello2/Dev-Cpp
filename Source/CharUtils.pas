@@ -1,4 +1,4 @@
-unit CharUtils;
+﻿unit CharUtils;
 
 interface
 

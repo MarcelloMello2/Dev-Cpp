@@ -1,4 +1,4 @@
-unit plgSearchHighlighter;
+﻿unit plgSearchHighlighter;
 
 interface
 

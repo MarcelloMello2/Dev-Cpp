@@ -1,4 +1,4 @@
-unit ConsoleAppHostFrm;
+﻿unit ConsoleAppHostFrm;
 
 interface
 

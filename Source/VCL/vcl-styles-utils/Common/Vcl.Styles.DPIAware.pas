@@ -1,4 +1,4 @@
-{
+﻿{
  Modified 20-Mar-2019 by Rickard Johansson (www.rj-texted.se).
  Purpose: Add per-monitor DPI awareness
  Usage: Add the unit to the interface uses statement of the main form and add code below:

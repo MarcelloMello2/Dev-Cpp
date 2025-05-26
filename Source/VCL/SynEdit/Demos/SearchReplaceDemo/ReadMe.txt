@@ -1,4 +1,4 @@
-SearchReplaceDemo.dpr
+﻿SearchReplaceDemo.dpr
 ---------------------
 
 - Needs Delphi 4 or higher.

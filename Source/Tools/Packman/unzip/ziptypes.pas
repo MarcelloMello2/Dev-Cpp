@@ -1,4 +1,4 @@
-{
+﻿{
 Type definitions for UNZIP
   * original version by Christian Ghisler
   * extended

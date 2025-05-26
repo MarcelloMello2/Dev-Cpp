@@ -1,4 +1,4 @@
-program ParamCompletionDemo;
+﻿program ParamCompletionDemo;
 
 uses
   Forms,

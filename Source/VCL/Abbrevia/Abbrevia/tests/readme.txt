@@ -1,4 +1,4 @@
-DUnit tests for Abbrevia
+﻿DUnit tests for Abbrevia
 ========================
 
 This project tests most of the basic functionality of Abbrevia.  It should

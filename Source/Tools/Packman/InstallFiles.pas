@@ -1,4 +1,4 @@
-unit InstallFiles;
+﻿unit InstallFiles;
 
 interface
 

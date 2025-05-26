@@ -1,4 +1,4 @@
-program ColorTabs;
+﻿program ColorTabs;
 
 uses
   Vcl.Forms,

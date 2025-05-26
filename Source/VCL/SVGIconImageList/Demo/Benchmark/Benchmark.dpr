@@ -1,4 +1,4 @@
-program Benchmark;
+﻿program Benchmark;
 
 uses
   Vcl.Forms,

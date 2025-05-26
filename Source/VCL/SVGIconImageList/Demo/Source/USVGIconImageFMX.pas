@@ -1,4 +1,4 @@
-unit USVGIconImageFMX;
+﻿unit USVGIconImageFMX;
 
 interface
 

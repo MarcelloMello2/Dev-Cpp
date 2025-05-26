@@ -1,4 +1,4 @@
-{******************************************************************************}
+﻿{******************************************************************************}
 {                                                                              }
 {       Icon Fonts ImageList: An extended ImageList for Delphi/FireMonkey      }
 {       to simplify use of Icons (resize, colors and more...)                  }

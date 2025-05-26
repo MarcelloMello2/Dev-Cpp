@@ -1,4 +1,4 @@
-{   Unzips deflated, imploded, shrunk and stored files
+﻿{   Unzips deflated, imploded, shrunk and stored files
   ** COMPATIBLE WITH
         * Turbo Pascal v7.x     (DOS Real Mode)
         * Borland Pascal v7.x   (Dos Real Mode, DOS DPMI, and Win16)

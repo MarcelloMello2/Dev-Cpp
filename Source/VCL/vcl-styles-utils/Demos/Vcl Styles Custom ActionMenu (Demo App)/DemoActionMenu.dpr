@@ -1,4 +1,4 @@
-program DemoActionMenu;
+﻿program DemoActionMenu;
 
 uses
   Windows,

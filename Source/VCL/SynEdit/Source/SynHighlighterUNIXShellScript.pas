@@ -1,4 +1,4 @@
-{-------------------------------------------------------------------------------
+ï»¿{-------------------------------------------------------------------------------
 The contents of this file are subject to the Mozilla Public License
 Version 1.1 (the "License"); you may not use this file except in compliance
 with the License. You may obtain a copy of the License at
@@ -12,7 +12,7 @@ The Original Code is: SynHighlighterUNIXShellScript.pas, released 2001-11-13.
 The Initial Author of this file is Stefan Ascher.
 Portions by Jan Verhoeven (http://jansfreeware.com/jfdelphi.htm)
 "Heredoc" syntax highlighting implementation by Marko Njezic.
-Unicode translation by Maël Hörz.
+Unicode translation by MaÃ«l HÃ¶rz.
 All Rights Reserved.
 
 Contributors to the SynEdit and mwEdit projects are listed in the

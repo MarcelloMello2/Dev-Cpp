@@ -1,4 +1,4 @@
-program SVGExplorer;
+﻿program SVGExplorer;
 
 uses
   Vcl.Forms,

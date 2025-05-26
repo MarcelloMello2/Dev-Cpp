@@ -1,4 +1,4 @@
-program IconPickerFMX;
+﻿program IconPickerFMX;
 
 uses
   System.StartUpCopy,

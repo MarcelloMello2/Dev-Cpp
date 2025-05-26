@@ -1,4 +1,4 @@
-{----------------------------------------------------------------------------------
+﻿{----------------------------------------------------------------------------------
 
   The contents of this file are subject to the GNU General Public License
   Version 1.1 or later (the "License"); you may not use this file except in

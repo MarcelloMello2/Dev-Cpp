@@ -1,4 +1,4 @@
-unit uMain;
+﻿unit uMain;
 
 {$mode Delphi}{$H+}
 

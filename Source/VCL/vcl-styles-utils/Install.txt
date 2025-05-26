@@ -1,4 +1,4 @@
-Vcl Styles Utils
+﻿Vcl Styles Utils
 https://github.com/RRUZ/vcl-styles-utils
 
 Installation :

@@ -1,4 +1,4 @@
-{******************************************************************************}
+ï»¿{******************************************************************************}
 {*                                                                            *}
 {*  Copyright (c) Microsoft Corporation. All rights reserved.                 *}
 {*                                                                            *}
@@ -10,7 +10,7 @@
 {*  The original version from Alexey Barkovoy can be downloaded from:         *}
 {*     http://clootie.ru                                                      *}
 (*                                                                            *)
-(*  Dynamic linking logic (similar to what the JCL does) by Maël Hörz.        *)
+(*  Dynamic linking logic (similar to what the JCL does) by MaÃ«l HÃ¶rz.        *)
 (*                                                                            *)
 (*  Latest version can be downloaded from http://mh-nexus.de/unisynedit.htm   *)
 (*  or checked out from the Unicode branch of SynEdit CVS.                    *) 

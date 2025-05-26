@@ -1,6 +1,6 @@
-{-----------------------------------------------------------------------------
+﻿{-----------------------------------------------------------------------------
  Unit Name: CairoSVGFactory
- Author:    L�bbe Onken
+ Author:    Lübbe Onken
  Purpose:   High-level encapsulation of Cario Svg functionality using
             the cairo and rsvg libraries
 -----------------------------------------------------------------------------}

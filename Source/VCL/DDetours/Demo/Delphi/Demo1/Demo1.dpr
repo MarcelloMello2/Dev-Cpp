@@ -1,4 +1,4 @@
-program Demo1;
+﻿program Demo1;
 
 uses
   Vcl.Forms,

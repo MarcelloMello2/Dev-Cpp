@@ -1,4 +1,4 @@
-program FoldingDemo;
+﻿program FoldingDemo;
 
 uses
   Vcl.Forms,

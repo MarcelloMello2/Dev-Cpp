@@ -1,4 +1,4 @@
-1. Compiling devcpp.exe
+﻿1. Compiling devcpp.exe
 
 To build devcpp a recent Delphi version is required (10.4 and onwards).
 

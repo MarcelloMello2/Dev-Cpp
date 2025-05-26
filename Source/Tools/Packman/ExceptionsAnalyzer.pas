@@ -1,4 +1,4 @@
-{
+﻿{
     This file is part of Dev-C++
     Copyright (c) 2004 Bloodshed Software
 
@@ -539,7 +539,7 @@ begin
     sl.Free;
   end;
   if Res = '' then
-    Res := '<StackTrace� info unavailable>';
+    Res := '<StackTraceŠ info unavailable>';
 
   // show dialog
   frmExceptionsAnalyzer := TfrmExceptionsAnalyzer.Create(Application.MainForm);

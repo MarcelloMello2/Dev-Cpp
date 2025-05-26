@@ -1,4 +1,4 @@
-/* 
+﻿/* 
    Name: WinAnim
    Author: Brook Miles
    Description: Making an animation in windows

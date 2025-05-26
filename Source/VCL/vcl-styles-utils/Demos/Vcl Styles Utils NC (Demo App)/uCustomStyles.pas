@@ -1,4 +1,4 @@
-unit uCustomStyles;
+﻿unit uCustomStyles;
 
 interface
 

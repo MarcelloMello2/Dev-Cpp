@@ -1,4 +1,4 @@
-program ThemedSysControls;
+﻿program ThemedSysControls;
 
 
 {$DEFINE USEVCLSTYLESHOOKS}

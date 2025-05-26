@@ -1,4 +1,4 @@
-(* ***** BEGIN LICENSE BLOCK *****
+ï»¿(* ***** BEGIN LICENSE BLOCK *****
  * Version: MPL 1.1
  *
  * The contents of this file are subject to the Mozilla Public License Version
@@ -434,13 +434,13 @@ procedure TAbZipperTests.TestLocale1;
 var
   ltestdir, ltestfile : string;
 begin
-  // This test verifies use Ability to use Charactes such as ãëíõú
+  // This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
   // In the Archive Directory Name
 
   // 236 changes into a ? on my machine in the delphi editor
   // so I thought it would be a good character to test with
 
-  ltestdir := TestTempDir  + chr(236) + 'ãëíõú';
+  ltestdir := TestTempDir  + chr(236) + 'Ã£Ã«Ã­ÃµÃº';
   ForceDirectories(ltestDir);
   ltestFile := lTestdir + PathDelim + 'locale1.zip';
 
@@ -459,14 +459,14 @@ procedure TAbZipperTests.TestLocale2;
 var
   ltestdir, ltestfile : string;
 begin
-  // This test verifies use Ability to use Charactes such as ãëíõú
+  // This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
   // In the Archive File Name
   ltestdir := TestTempDir;
   ForceDirectories(ltestDir);
 
   // 236 changes into a ? on my machine in the delphi editor
   // so I thought it would be a good character to test with
-  ltestFile := lTestdir   + chr(236)+ 'ãëíõú.zip';
+  ltestFile := lTestdir   + chr(236)+ 'Ã£Ã«Ã­ÃµÃº.zip';
 
   if FileExists(lTestFile) then
     DeleteFile(lTestFile);
@@ -483,7 +483,7 @@ procedure TAbZipperTests.TestLocale3;
 var
   lBaseDir, ltestdir, ltestfile : string;
 begin
-  // This test verifies use Ability to use Charactes such as ãëíõú
+  // This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
   // In the BaseDirectory
 
   ltestdir := TestTempDir;
@@ -494,7 +494,7 @@ begin
 
   // 236 changes into a ? on my machine in the delphi editor
   // so I thought it would be a good character to test with
-  lBaseDir := TestTempDir + chr(236) + 'ãëíõú' + PathDelim;
+  lBaseDir := TestTempDir + chr(236) + 'Ã£Ã«Ã­ÃµÃº' + PathDelim;
   ForceDirectories(lBaseDir);
   CreateDummyFile(lBaseDir + 'test1.lc3', 4000);
   CreateDummyFile(lBaseDir + 'test2.lc3', 6000);
@@ -514,7 +514,7 @@ var
   ltestfile : string;
   lBaseDir : string;
 begin
-// This test verifies use Ability to use Charactes such as ãëíõú
+// This test verifies use Ability to use Charactes such as Ã£Ã«Ã­ÃµÃº
 // In the Zip Archive Files (Base directory also has character in it)
 
   ltestdir := TestTempDir;
@@ -525,11 +525,11 @@ begin
 
   //236 changes into a ? on my machine in the delphi editor
   // so I thought it would be a good character to test with
-  lBaseDir := TestTempDir + chr(236) + 'ãëíõú' + PathDelim;
+  lBaseDir := TestTempDir + chr(236) + 'Ã£Ã«Ã­ÃµÃº' + PathDelim;
   ForceDirectories(lBaseDir);
-  CreateDummyFile(lBaseDir + 'testãëíõú1.lc4',4000);
-  CreateDummyFile(lBaseDir + 'testãëíõú2.lc4',6000);
-  CreateDummyFile(lBaseDir + 'testãëíõú3.lc4',1000);
+  CreateDummyFile(lBaseDir + 'testÃ£Ã«Ã­ÃµÃº1.lc4',4000);
+  CreateDummyFile(lBaseDir + 'testÃ£Ã«Ã­ÃµÃº2.lc4',6000);
+  CreateDummyFile(lBaseDir + 'testÃ£Ã«Ã­ÃµÃº3.lc4',1000);
 
   Component.FileName := lTestFile;
   Component.BaseDirectory := lBaseDir;

@@ -1,4 +1,4 @@
-(* ***** BEGIN LICENSE BLOCK *****
+﻿(* ***** BEGIN LICENSE BLOCK *****
  * Version: MPL 1.1
  *
  * The contents of this file are subject to the Mozilla Public License Version
@@ -203,7 +203,7 @@ begin
     'Copyright (c) 1997-2015 Abbrevia development team' + sLineBreak +
     'Covered under the Mozilla Public License (MPL) v1.1' + sLineBreak +
     'Abbrevia includes source code from bzip2, the LZMA SDK,' + sLineBreak +
-    'Dag �gren''s version of PPMd, and the WavPack SDK.',
+    'Dag Ågren''s version of PPMd, and the WavPack SDK.',
     LoadBitmap(HInstance, 'SPLASH'));
 end;
 

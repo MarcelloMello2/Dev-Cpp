@@ -1,4 +1,4 @@
-program Test;
+﻿program Test;
 
 {$IFNDEF TESTINSIGHT}
 {$APPTYPE CONSOLE}

@@ -1,4 +1,4 @@
-unit ExtractionProgressDialog;
+﻿unit ExtractionProgressDialog;
 
 interface
 

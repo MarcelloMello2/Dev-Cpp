@@ -1,4 +1,4 @@
-unit uButtonsStyles;
+﻿unit uButtonsStyles;
 
 interface
 

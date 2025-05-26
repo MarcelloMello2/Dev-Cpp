@@ -1,4 +1,4 @@
-unit RemoveForms;
+﻿unit RemoveForms;
 
 interface
 

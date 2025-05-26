@@ -1,4 +1,4 @@
-unit HashTableGen;
+﻿unit HashTableGen;
 
 {$I SynEdit.inc}
 

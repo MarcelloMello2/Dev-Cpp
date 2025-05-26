@@ -1,4 +1,4 @@
-program VclStylesOwnerDraw;
+﻿program VclStylesOwnerDraw;
 
 uses
   Vcl.Forms,

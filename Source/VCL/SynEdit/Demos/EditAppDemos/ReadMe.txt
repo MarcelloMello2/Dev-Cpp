@@ -1,4 +1,4 @@
-EditAppDemos.bpg
+﻿EditAppDemos.bpg
 ----------------
 
 - Needs Delphi 4 or higher.

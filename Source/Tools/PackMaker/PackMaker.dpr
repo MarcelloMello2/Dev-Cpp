@@ -1,4 +1,4 @@
-program PackMaker;
+﻿program PackMaker;
 
 uses
   Forms,

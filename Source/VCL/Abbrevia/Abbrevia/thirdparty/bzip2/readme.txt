@@ -1,4 +1,4 @@
-bzip2 SDK v1.0.6
+﻿bzip2 SDK v1.0.6
 
 Original download available from http://bzip.org/1.0.6/bzip2-1.0.6.tar.gz
 

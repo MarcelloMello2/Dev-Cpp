@@ -1,4 +1,4 @@
-unit rsvglib;
+﻿unit rsvglib;
 {$ALIGN ON}
 {$MINENUMSIZE 4}
 interface

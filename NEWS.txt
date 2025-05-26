@@ -1,4 +1,4 @@
-Version 6.3 - 30 January 2021
+﻿Version 6.3 - 30 January 2021
 
  - Added: Parallel compilation enabled by default for release builds through MAKE Jobs.
  - Added: 3 Buttons for setting up custom shell command line tabs.

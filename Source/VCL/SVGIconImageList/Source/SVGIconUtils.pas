@@ -1,4 +1,4 @@
-{******************************************************************************}
+﻿{******************************************************************************}
 {                                                                              }
 {       Icon SVG ImageList: An extended ImageList for Delphi/VCL               }
 {       to simplify use of SVG Icons (resize, opacity and more...)             }

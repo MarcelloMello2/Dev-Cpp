@@ -1,4 +1,4 @@
-unit rsvg;
+﻿unit rsvg;
 
 interface
 uses rsvglib, Classes, SysUtils;

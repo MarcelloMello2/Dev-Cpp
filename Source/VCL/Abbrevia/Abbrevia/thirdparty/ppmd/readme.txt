@@ -1,4 +1,4 @@
-This is a C conversion of Dag �gren's Objective-C conversion of Dmitry Shkarin's original C++ PPMd variant I.1 release.
+﻿This is a C conversion of Dag Ågren's Objective-C conversion of Dmitry Shkarin's original C++ PPMd variant I.1 release.
 
 The C++ code is available from Dmitry's website at http://www.compression.ru/ds/
 The Objective-C code is available from The Unarchiver's Google Code page at http://code.google.com/p/theunarchiver/

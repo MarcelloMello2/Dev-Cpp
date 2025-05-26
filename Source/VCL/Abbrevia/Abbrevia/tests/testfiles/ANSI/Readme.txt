@@ -1,4 +1,4 @@
-These test files use a subset of characters that are supported by both OEM 437 and ANSI 1252, in order to test .gz/.tar filename decoding.  They will work on Delphi 2007 and earlier.  The filenames are encoded in each archive as indicated by their names (OEM 437, ANSI 1252, UTF-8), which are the ANSI/OEM codepages for US English.
+﻿These test files use a subset of characters that are supported by both OEM 437 and ANSI 1252, in order to test .gz/.tar filename decoding.  They will work on Delphi 2007 and earlier.  The filenames are encoded in each archive as indicated by their names (OEM 437, ANSI 1252, UTF-8), which are the ANSI/OEM codepages for US English.
 
 I've looked into filename encoding behavior in various Windows applications, and there isn't any agreement, so when writing new archives Abbrevia always uses UTF-8 on Windows and OS X.
 

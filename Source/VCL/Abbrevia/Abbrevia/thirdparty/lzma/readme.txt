@@ -1,4 +1,4 @@
-LZMA SDK v9.20
+﻿LZMA SDK v9.20
 
 Original download available from http://downloads.sourceforge.net/sevenzip/lzma920.tar.bz2
 

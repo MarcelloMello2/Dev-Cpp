@@ -1,4 +1,4 @@
-195.250.102.53 - - [26/Aug/2003:10:36:44 -0400] "GET / HTTP/1.1" 200 467 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; NetCaptor 7.2.2)"
+﻿195.250.102.53 - - [26/Aug/2003:10:36:44 -0400] "GET / HTTP/1.1" 200 467 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; NetCaptor 7.2.2)"
 195.250.102.53 - - [26/Aug/2003:10:36:44 -0400] "GET /icons/blank.gif HTTP/1.1" 404 - "http://download.datalandsoftware.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; NetCaptor 7.2.2)"
 195.250.102.53 - - [26/Aug/2003:10:36:45 -0400] "GET /icons/back.gif HTTP/1.1" 404 - "http://download.datalandsoftware.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; NetCaptor 7.2.2)"
 195.250.102.53 - - [26/Aug/2003:10:36:45 -0400] "GET /favicon.ico HTTP/1.1" 404 - "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; NetCaptor 7.2.2)"

@@ -1,4 +1,4 @@
-Heebo Variable Font
+﻿Heebo Variable Font
 ===================
 
 This download contains Heebo as both a variable font and static fonts.
@@ -10,7 +10,7 @@ This means all the styles are contained in a single file:
   Heebo-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
+that arenâ€™t available as static fonts. Not all apps support variable fonts, and
 in those cases you can use the static font files for Heebo:
   static/Heebo-Thin.ttf
   static/Heebo-ExtraLight.ttf

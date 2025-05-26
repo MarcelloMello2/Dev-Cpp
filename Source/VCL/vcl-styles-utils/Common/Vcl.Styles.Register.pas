@@ -1,4 +1,4 @@
-unit Vcl.Styles.Register;
+﻿unit Vcl.Styles.Register;
 
 interface
 

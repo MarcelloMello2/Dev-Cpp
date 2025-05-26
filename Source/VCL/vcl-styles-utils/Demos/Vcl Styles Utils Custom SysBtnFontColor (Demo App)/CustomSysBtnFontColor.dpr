@@ -1,4 +1,4 @@
-program CustomSysBtnFontColor;
+﻿program CustomSysBtnFontColor;
 
 uses
   Vcl.Forms,

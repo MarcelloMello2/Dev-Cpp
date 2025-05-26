@@ -1,4 +1,4 @@
-program CompletionProposalDemo;
+﻿program CompletionProposalDemo;
 
 uses
   Forms,

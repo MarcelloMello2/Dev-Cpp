@@ -1,4 +1,4 @@
-program VclStylesTWB;
+﻿program VclStylesTWB;
 
 uses
   Windows,

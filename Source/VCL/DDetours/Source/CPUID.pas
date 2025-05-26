@@ -1,4 +1,4 @@
-// **************************************************************************************************
+﻿// **************************************************************************************************
 // CPUID for Delphi.
 // Unit CPUID
 // https://github.com/MahdiSafsafi/DDetours
@@ -165,7 +165,7 @@ asm
   2) Detect CPUID.1:ECX.AVX[bit 28] = 1
   => AVX instructions supported.
 
-  3) Issue XGETBV and verify that XCR0[2:1] = ‘11b’
+  3) Issue XGETBV and verify that XCR0[2:1] = â11bâ
   => XMM state and YMM state are enabled by OS.
 
    }

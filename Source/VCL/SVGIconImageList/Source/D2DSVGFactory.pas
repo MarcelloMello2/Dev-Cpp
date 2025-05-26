@@ -1,4 +1,4 @@
-{-----------------------------------------------------------------------------
+﻿{-----------------------------------------------------------------------------
  Unit Name: D2DSVGHandler
  Author:    PyScripter
  Purpose:   High-level encapsuation of Direct2D Svg functionality

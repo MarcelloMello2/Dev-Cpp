@@ -1,4 +1,4 @@
-program SVGIconImageListDemo;
+﻿program SVGIconImageListDemo;
 
 uses
   Vcl.Forms,

@@ -1,4 +1,4 @@
-// Please note that MinGW32 compilers currently do not support <thread>. Use MinGW64 builds like TDM-GCC instead.
+﻿// Please note that MinGW32 compilers currently do not support <thread>. Use MinGW64 builds like TDM-GCC instead.
 
 #include <thread>
 using std::thread;

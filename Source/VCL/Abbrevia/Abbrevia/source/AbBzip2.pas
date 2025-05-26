@@ -1,4 +1,4 @@
-(* ***** BEGIN LICENSE BLOCK *****
+﻿(* ***** BEGIN LICENSE BLOCK *****
  * This program, "bzip2", the associated library "libbzip2", and all
  * documentation, are copyright (C) 1996-2007 Julian R Seward.  All
  * rights reserved.

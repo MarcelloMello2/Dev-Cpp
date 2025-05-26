@@ -1,4 +1,4 @@
-program TTaskDialogsDemo;
+﻿program TTaskDialogsDemo;
 
 uses
   Windows,

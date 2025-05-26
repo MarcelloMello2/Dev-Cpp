@@ -1,4 +1,4 @@
-program Dialogs2;
+﻿program Dialogs2;
 
 uses
   Windows,

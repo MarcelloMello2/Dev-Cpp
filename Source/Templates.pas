@@ -1,4 +1,4 @@
-{
+﻿{
     This file is part of Dev-C++
     Copyright (c) 2004 Bloodshed Software
 

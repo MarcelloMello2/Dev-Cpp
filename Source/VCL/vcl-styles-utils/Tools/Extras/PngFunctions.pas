@@ -1,4 +1,4 @@
-unit PngFunctions;
+﻿unit PngFunctions;
 
 interface
 

@@ -1,4 +1,4 @@
-unit InstallWizards;
+﻿unit InstallWizards;
 
 interface
 

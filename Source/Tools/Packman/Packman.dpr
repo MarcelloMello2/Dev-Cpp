@@ -1,4 +1,4 @@
-program Packman;
+﻿program Packman;
 
 uses
   FastMM5 in 'FastMM5.pas',

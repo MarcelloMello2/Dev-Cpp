@@ -1,4 +1,4 @@
-program SVGIconImageDemoFMX;
+﻿program SVGIconImageDemoFMX;
 
 uses
   System.StartUpCopy,

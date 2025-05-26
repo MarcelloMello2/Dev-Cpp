@@ -1,4 +1,4 @@
-// This unit requires at least Delphi 10.3.2 to work
+﻿// This unit requires at least Delphi 10.3.2 to work
 unit BitmapCodecSVG;
 
 interface

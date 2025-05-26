@@ -1,4 +1,4 @@
-#include <omp.h>
+﻿#include <omp.h>
 #include <stdio.h>
 
 // not using iostream here due to output ordering issues

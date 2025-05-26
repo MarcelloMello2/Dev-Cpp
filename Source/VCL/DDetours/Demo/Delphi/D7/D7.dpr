@@ -1,4 +1,4 @@
-program D7;
+﻿program D7;
 
 uses
   Forms,

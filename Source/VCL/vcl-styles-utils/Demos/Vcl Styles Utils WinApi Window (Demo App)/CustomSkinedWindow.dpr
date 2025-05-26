@@ -1,4 +1,4 @@
-program CustomSkinedWindow;
+﻿program CustomSkinedWindow;
 
 uses
   Windows,
