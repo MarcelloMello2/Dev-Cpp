@@ -1,0 +1,132 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{0CA66F64-81BD-4FBA-BE45-2872776047CF}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDR_D12DevCpp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDD_D12DevCpp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconPackage_D12DevCpp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconImageList_D12DevCpp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\VCL\SVGIconImageList\Packages\D10_4\dclSVGIconImageList_D12DevCpp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\VCL\DevCppDsn.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\Tools\PackMaker\PackMaker.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\VCL\ClassBrowsing\ClassBrowsing.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Source\devcpp.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="SynEditDR_D12DevCpp">
+        <MSBuild Projects="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDR_D12DevCpp.dproj"/>
+    </Target>
+    <Target Name="SynEditDR_D12DevCpp:Clean">
+        <MSBuild Projects="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDR_D12DevCpp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SynEditDR_D12DevCpp:Make">
+        <MSBuild Projects="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDR_D12DevCpp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SynEditDD_D12DevCpp">
+        <MSBuild Projects="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDD_D12DevCpp.dproj"/>
+    </Target>
+    <Target Name="SynEditDD_D12DevCpp:Clean">
+        <MSBuild Projects="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDD_D12DevCpp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SynEditDD_D12DevCpp:Make">
+        <MSBuild Projects="Source\VCL\SynEdit\Packages\Rio\Delphi\SynEditDD_D12DevCpp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SVGIconPackage_D12DevCpp">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconPackage_D12DevCpp.dproj"/>
+    </Target>
+    <Target Name="SVGIconPackage_D12DevCpp:Clean">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconPackage_D12DevCpp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SVGIconPackage_D12DevCpp:Make">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconPackage_D12DevCpp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SVGIconImageList_D12DevCpp">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconImageList_D12DevCpp.dproj"/>
+    </Target>
+    <Target Name="SVGIconImageList_D12DevCpp:Clean">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconImageList_D12DevCpp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SVGIconImageList_D12DevCpp:Make">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\SVGIconImageList_D12DevCpp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="dclSVGIconImageList_D12DevCpp">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\dclSVGIconImageList_D12DevCpp.dproj"/>
+    </Target>
+    <Target Name="dclSVGIconImageList_D12DevCpp:Clean">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\dclSVGIconImageList_D12DevCpp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="dclSVGIconImageList_D12DevCpp:Make">
+        <MSBuild Projects="Source\VCL\SVGIconImageList\Packages\D10_4\dclSVGIconImageList_D12DevCpp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DevCppDsn">
+        <MSBuild Projects="Source\VCL\DevCppDsn.dproj"/>
+    </Target>
+    <Target Name="DevCppDsn:Clean">
+        <MSBuild Projects="Source\VCL\DevCppDsn.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DevCppDsn:Make">
+        <MSBuild Projects="Source\VCL\DevCppDsn.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PackMaker">
+        <MSBuild Projects="Source\Tools\PackMaker\PackMaker.dproj"/>
+    </Target>
+    <Target Name="PackMaker:Clean">
+        <MSBuild Projects="Source\Tools\PackMaker\PackMaker.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PackMaker:Make">
+        <MSBuild Projects="Source\Tools\PackMaker\PackMaker.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ClassBrowsing">
+        <MSBuild Projects="Source\VCL\ClassBrowsing\ClassBrowsing.dproj"/>
+    </Target>
+    <Target Name="ClassBrowsing:Clean">
+        <MSBuild Projects="Source\VCL\ClassBrowsing\ClassBrowsing.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ClassBrowsing:Make">
+        <MSBuild Projects="Source\VCL\ClassBrowsing\ClassBrowsing.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="devcpp">
+        <MSBuild Projects="Source\devcpp.dproj"/>
+    </Target>
+    <Target Name="devcpp:Clean">
+        <MSBuild Projects="Source\devcpp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="devcpp:Make">
+        <MSBuild Projects="Source\devcpp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="SynEditDR_D12DevCpp;SynEditDD_D12DevCpp;SVGIconPackage_D12DevCpp;SVGIconImageList_D12DevCpp;dclSVGIconImageList_D12DevCpp;DevCppDsn;PackMaker;ClassBrowsing;devcpp"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="SynEditDR_D12DevCpp:Clean;SynEditDD_D12DevCpp:Clean;SVGIconPackage_D12DevCpp:Clean;SVGIconImageList_D12DevCpp:Clean;dclSVGIconImageList_D12DevCpp:Clean;DevCppDsn:Clean;PackMaker:Clean;ClassBrowsing:Clean;devcpp:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="SynEditDR_D12DevCpp:Make;SynEditDD_D12DevCpp:Make;SVGIconPackage_D12DevCpp:Make;SVGIconImageList_D12DevCpp:Make;dclSVGIconImageList_D12DevCpp:Make;DevCppDsn:Make;PackMaker:Make;ClassBrowsing:Make;devcpp:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
