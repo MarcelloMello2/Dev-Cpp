@@ -1,4 +1,4 @@
-package DevCpp;
+package DevCppDsn;
 
 {$R *.res}
 {$R 'devFileMonitor\devFileMonitor.dcr'}

@@ -12,10 +12,8 @@ object AbColHeadingsEditor: TAbColHeadingsEditor
   Font.Name = 'MS Sans Serif'
   Font.Style = []
   FormStyle = fsStayOnTop
-  OldCreateOrder = True
   Position = poScreenCenter
   OnShow = FormShow
-  PixelsPerInch = 96
   TextHeight = 13
   object Panel1: TPanel
     Left = 0
@@ -48,7 +46,6 @@ object AbColHeadingsEditor: TAbColHeadingsEditor
       Width = 177
       Height = 21
       Style = csDropDownList
-      ItemHeight = 13
       TabOrder = 0
       OnClick = Attribute1Click
     end
@@ -68,8 +65,8 @@ object AbColHeadingsEditor: TAbColHeadingsEditor
     Height = 25
     Caption = '&Done'
     ModalResult = 1
-    TabOrder = 1
     NumGlyphs = 2
+    TabOrder = 1
   end
   object Apply1: TBitBtn
     Left = 288
@@ -78,9 +75,9 @@ object AbColHeadingsEditor: TAbColHeadingsEditor
     Height = 25
     Caption = 'Apply'
     Default = True
+    NumGlyphs = 2
     TabOrder = 2
     OnClick = Apply1Click
-    NumGlyphs = 2
   end
   object Button1: TButton
     Left = 288

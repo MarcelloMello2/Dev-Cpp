@@ -13,14 +13,12 @@ object NewProjectForm: TNewProjectForm
   Font.Height = -12
   Font.Name = 'Segoe UI'
   Font.Style = []
-  OldCreateOrder = False
   Position = poMainFormCenter
   OnCreate = FormCreate
   OnDestroy = FormDestroy
   DesignSize = (
     540
     303)
-  PixelsPerInch = 96
   TextHeight = 15
   object TemplateLabel: TLabel
     Left = 24
@@ -177,7 +175,6 @@ object NewProjectForm: TNewProjectForm
           '-.23.12-.45.17-.66s.1-.43.16-.66L26,21.45h.94Z" style="fill:#7da' +
           'ca8"/></g></svg>'
       end>
-    Scaled = True
     Left = 176
     Top = 192
   end

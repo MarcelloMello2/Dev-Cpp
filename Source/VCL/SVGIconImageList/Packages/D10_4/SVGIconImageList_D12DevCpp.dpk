@@ -1,0 +1,50 @@
+package SVGIconImageList_D12DevCpp;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS ON}
+{$RANGECHECKS ON}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$DESCRIPTION 'Ethea SVGIconImageList VCL components'}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  vcl,
+  SVGIconPackage_D12DevCpp,
+  vclwinx;
+
+contains
+  SVGIconImage in '..\..\Source\SVGIconImage.pas',
+  SVGIconImageList in '..\..\Source\SVGIconImageList.pas',
+  SVGIconUtils in '..\..\Source\SVGIconUtils.pas',
+  SVGIconImageCollection in '..\..\Source\SVGIconImageCollection.pas',
+  SVGIconItems in '..\..\Source\SVGIconItems.pas',
+  SVGIconVirtualImageList in '..\..\Source\SVGIconVirtualImageList.pas',
+  SVGIconImageListBase in '..\..\Source\SVGIconImageListBase.pas',
+  D2DSVGFactory in '..\..\Source\D2DSVGFactory.pas',
+  Winapi.D2DMissing in '..\..\Source\Winapi.D2DMissing.pas',
+  PasSVGFactory in '..\..\Source\PasSVGFactory.pas',
+  SVGInterfaces in '..\..\Source\SVGInterfaces.pas';
+
+end.
