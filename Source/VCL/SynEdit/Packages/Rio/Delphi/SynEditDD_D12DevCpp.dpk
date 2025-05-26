@@ -1,4 +1,4 @@
-package SynEditDD_D12DevCpp;
+﻿package SynEditDD_D12DevCpp;
 
 {$R *.res}
 {$R '..\..\..\Source\SynEditReg.dcr'}

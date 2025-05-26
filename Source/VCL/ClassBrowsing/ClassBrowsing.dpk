@@ -1,4 +1,4 @@
-package ClassBrowsing;
+﻿package ClassBrowsing;
 
 {$R *.res}
 {$R 'CppParser.dcr'}

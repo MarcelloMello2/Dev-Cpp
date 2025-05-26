@@ -1,4 +1,4 @@
-package dclSVGIconImageList;
+﻿package dclSVGIconImageList;
 
 {$R *.res}
 {$R '..\SVGIconImageListNew.dcr'}

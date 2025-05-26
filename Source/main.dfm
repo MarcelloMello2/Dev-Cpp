@@ -149,7 +149,6 @@ object MainForm: TMainForm
     0000000000000000000000000000000000000000000000000000000000000000
     00000000000080000001C0000003C0000003E0000007F800001FFC00003F}
   Menu = MainMenu
-  OldCreateOrder = False
   Position = poScreenCenter
   ShowHint = True
   OnClose = FormClose
@@ -159,7 +158,6 @@ object MainForm: TMainForm
   OnMouseWheel = FormMouseWheel
   OnResize = FormResize
   OnShow = FormShow
-  PixelsPerInch = 96
   TextHeight = 19
   object SplitterLeft: TSplitter
     Left = 209
@@ -1053,7 +1051,7 @@ object MainForm: TMainForm
     Top = 56
     Width = 209
     Height = 441
-    ActivePage = LeftProjectSheet
+    ActivePage = LeftClassSheet
     Align = alLeft
     Images = dmMain.ProjectImage_NewLook
     TabOrder = 1
@@ -4620,7 +4618,6 @@ object MainForm: TMainForm
           ReadOnly = True
           TabOrder = 6
           Visible = False
-          Zoom = 100
         end
         object RichEdit2: TRichEdit
           Tag = 2
@@ -4642,7 +4639,6 @@ object MainForm: TMainForm
           ReadOnly = True
           TabOrder = 7
           Visible = False
-          Zoom = 100
         end
         object RichEdit3: TRichEdit
           Tag = 3
@@ -4664,7 +4660,6 @@ object MainForm: TMainForm
           ReadOnly = True
           TabOrder = 8
           Visible = False
-          Zoom = 100
         end
         object RichEdit4: TRichEdit
           Tag = 4
@@ -4686,7 +4681,6 @@ object MainForm: TMainForm
           ReadOnly = True
           TabOrder = 9
           Visible = False
-          Zoom = 100
         end
         object RichEdit0: TRichEdit
           Left = 71
@@ -4707,7 +4701,6 @@ object MainForm: TMainForm
           ReadOnly = True
           TabOrder = 10
           Visible = False
-          Zoom = 100
         end
       end
     end
@@ -6556,8 +6549,8 @@ object MainForm: TMainForm
     MaxHeight = 0
     OnResize = CodeCompletionResize
     OnlyGlobals = False
-    Left = 60
-    Top = 228
+    Left = 172
+    Top = 260
   end
   object Shortcuts: TdevShortcuts
     Filename = 'shortcuts.ini'
@@ -6648,8 +6641,8 @@ object MainForm: TMainForm
     Top = 134
   end
   object CppTokenizer: TCppTokenizer
-    Left = 60
-    Top = 166
+    Left = 124
+    Top = 182
   end
   object FolderPopup: TPopupMenu
     Images = dmMain.MenuImages_NewLook

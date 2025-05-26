@@ -1,4 +1,4 @@
-package SynEditDR_D12DevCpp;
+﻿package SynEditDR_D12DevCpp;
 
 {$R *.res}
 {$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}

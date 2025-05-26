@@ -1,4 +1,4 @@
-package SVGIconPackage_D12DevCpp;
+﻿package SVGIconPackage_D12DevCpp;
 
 {$R *.res}
 {$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}

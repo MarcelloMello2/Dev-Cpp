@@ -1,4 +1,4 @@
-package dclSVGIconImageList_D12DevCpp;
+﻿package dclSVGIconImageList_D12DevCpp;
 
 {$R *.res}
 {$R '..\SVGIconImageListNew.dcr'}
